@@ -1,6 +1,6 @@
 <h2>Odin Project assignment</h2>
 <ol>
-<li>Download the design images and take a look at what you’re going to be creating here. Image One (Full Design), Image Two (Color and Fonts)<br>
+<li>Download the design images and take a look at what you’re going to be creating here. <a href="https://cdn.statically.io/gh/TheOdinProject/curriculum/81a5d553f4073e593d23a6ab00d50eef8620796d/foundations/html_css/project/imgs/01.png">Image One (Full Design)</a>, <a href="https://cdn.statically.io/gh/TheOdinProject/curriculum/a38403e7d81cc8305af16ac48985cfbde87834d6/foundations/html_css/flexbox/project-landing-page/imgs/02.png"> Image Two (Color and Fonts)</a><br>
 <ol><li>Hero text is the statement that appears at the top of a web page.</li></ol></li>
 
 <li>There are many ways to tackle a project like this, and it can be overwhelming to look at a blank HTML document and not know where to start. Our suggestion: take it one section at a time. The website you’re creating has 4 main sections (and a footer), so pick one and get it into pretty good shape before moving on. Starting at the top is always a solid plan.</li>

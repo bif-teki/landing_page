@@ -100,5 +100,40 @@ header {
 }
 
 .section3 {
-    
+    padding:  80px 270px 80px 270px;
+}
+
+.quote{
+    font-size: 36px;
+    font-weight: 300;
+    font-style: italic;
+    color: #1f2937;
+}
+
+.author{
+    text-align: right;
+    color: #1f293f;
+    font-size: 23px;
+    font-weight: 700;
+}
+
+.section4{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.cta{
+    background-color:#3B82F6;
+    color:white;
+    margin: 90px 186px 90px 186px;
+    padding: 50px 110px 50px 110px;
+    border-radius: 10px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.signup{
+    border:solid 1px white;
+    border-radius: 6px;
 }
